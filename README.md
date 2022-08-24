@@ -22,11 +22,14 @@ the GraphQL API (v4) will also be discussed.
 This talk will use Jupyter Notebooks and Python to cover:
 
 * Getting started: documentation, authentication, personal access tokens, and
-* ethical use Demo: gathering data about users (employer, email, orgs, bio,
-* type, …) Demo: getting data about organizations (description, creation date, …
+  ethical use
+* Demo: gathering data about users (employer, email, orgs, bio,
+  type, …) 
+* Demo: getting data about organizations (description, creation date, …)
 * Demo: accessing data about repositories (last updated, open issues / PRs,
-* license, …) Pros and cons of using the REST API and the GraphQL API with a
-* simple GraphQL demo.
+  license, …)
+* Pros and cons of using the REST API and the GraphQL API with a
+  simple GraphQL demo.
 
 The audience will walk away with an understanding of how to use the GitHub API
 to gather some basic information along with the link to a GitHub repository
