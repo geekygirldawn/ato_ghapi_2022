@@ -1,6 +1,9 @@
 # API key
 gh_key*
 
+# Timing
+timing.txt
+
 # VS Code files
 /.vscode/
 
