@@ -4,6 +4,9 @@ gh_key*
 # Timing
 timing.txt
 
+# Videos
+videos
+
 # VS Code files
 /.vscode/
 
