@@ -4,10 +4,6 @@ This repo is being used for my talk at [All Things Open (ATO)
 2022](https://2022.allthingsopen.org/sessions/github-api-101-with-python-and-jupyter-notebooks/)
 on November 2 in Raleigh from 2:45-3:30.
 
-## Repo Status
-
-EARLY WIP - not finished.
-
 ## Talk Abstract
 
 The GitHub APIs are powerful tools for accessing data about your open source
