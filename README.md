@@ -1,8 +1,12 @@
 # [GitHub API 101 with Python and Jupyter Notebooks](https://2022.allthingsopen.org/sessions/github-api-101-with-python-and-jupyter-notebooks/)
 
-This repo is being used for my talk at [All Things Open (ATO)
+This repo from my talk at [All Things Open (ATO)
 2022](https://2022.allthingsopen.org/sessions/github-api-101-with-python-and-jupyter-notebooks/)
 on November 2 in Raleigh from 2:45-3:30.
+
+The content from the talk can be found in the notebooks directory. Those
+Jupyter Notebooks contain all of the code from the talk and are numbered
+based on the order that you are expected to go through them.
 
 ## Talk Abstract
 
